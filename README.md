@@ -1,4 +1,4 @@
-  # Hi, I'm Ekaterina!
+# Hi, I'm Ekaterina!
 
   > *"A robot may not injure a human being or, through inaction, allow a human being to come to harm."*
   > — Isaac Asimov, First Law of Robotics
@@ -15,15 +15,16 @@
 
   ### Research & AI
   - **[Hacker News Semantic Search](https://github.com/kiote/hackernews)** — Semantic search for 38.8M HN items using FAISS & sentence embeddings
-  - **[Savvy Phrase](https://github.com/kiote/savvy_phrase)** — Go CLI that settles grammar debates by checking real usage
+  - **[Heartbeat](https://github.com/kiote/heartbeat)** — Remote photoplethysmography: measuring heart rate from facial video
+  - **[Google Scholar Save](https://github.com/kiote/google-scholar-save)** — Export Google Scholar search results to CSV
 
   ### Developer Tools
-  - **[SeoTracker](https://github.com/kiote/SeoTracker)** — Ruby gem for tracking rankings across Google and Yandex
-  - **[StandUp Bot](https://github.com/kiote/standup-bot)** — Slack bot for collecting standup messages
-  - **[ActiveAdmin PORO Decorator](https://github.com/kiote/activeadmin-poro-decorator)** — Clean, testable decorators for ActiveAdmin
+  - **[GitKot](https://github.com/kiote/gitkot)** — TikTok-style interface to explore GitHub repositories
+  - **[Podcast Whisperer](https://github.com/kiote/podcast_whisperer)** — Making podcasts available in multiple languages
+  - **[Azure Terraform](https://github.com/kiote/azure-terraform)** — Hetzner cloud automation with Terraform
 
   ### Always Tinkering
-  [Podcast transcription](https://github.com/kiote/podcast_whisperer) • [Elixir experiments](https://github.com/kiote/olivepress) • [LeetCode solutions](https://github.com/kiote/leetcode-bites) • and 176+ more repos
+  [Elixir experiments](https://github.com/kiote/olivepress) • [LeetCode solutions](https://github.com/kiote/leetcode-bites) • and 176+ more repos
 
   ## Let's Connect
 
