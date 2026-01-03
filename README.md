@@ -9,7 +9,8 @@
 
   ## What I'm Working On
 
-  My PhD topic is related to neuro-symbolic AI, deep learning and deep knowledge tracing. I work as a part of [EduHAI research team](https://www.edu-hai.ee/team)
+  * As Applied Researcher in Microsoft I work on optimizing NDA'ed AI tools for users
+  * As PhD student, my research topic is related to neuro-symbolic AI, deep learning and deep knowledge tracing. I work as a part of [EduHAI research team](https://www.edu-hai.ee/team)
 
   ## Open Source Contributions
 
