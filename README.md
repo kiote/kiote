@@ -9,7 +9,7 @@
 
   ## What I'm Working On
 
-  Building AI systems that genuinely help people—systems designed thoughtfully with human wellbeing at the center. Asimov's First Law still guides how I think about technology.
+  My PhD topic is related to neuro-symbolic AI, deep learning and deep knowledge tracing. I work as a part of [EduHAI research team](https://www.edu-hai.ee/team)
 
   ## Selected Projects
 
