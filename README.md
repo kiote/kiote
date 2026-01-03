@@ -11,6 +11,16 @@
 
   My PhD topic is related to neuro-symbolic AI, deep learning and deep knowledge tracing. I work as a part of [EduHAI research team](https://www.edu-hai.ee/team)
 
+  ## Open Source Contributions
+
+  Contributor to **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** — the Python machine learning library. Merged PRs include performance improvements to MultiLabelBinarizer and estimator validation checks.
+
+  For example: 
+  
+  1. https://github.com/scikit-learn/scikit-learn/pull/12116 — Cache class mapping in MultiLabelBinarizer (performance enhancement)
+  2. https://github.com/scikit-learn/scikit-learn/pull/7846 — Add check for estimator: parameters not modified by fit
+  3. https://github.com/scikit-learn/scikit-learn/pull/7553 — Ensure estimator __dict__ is unmodified by predict/transform
+
   ## Selected Projects
 
   ### Research & AI
